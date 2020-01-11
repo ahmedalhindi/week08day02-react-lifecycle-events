@@ -22,7 +22,7 @@ class Lyfecycle extends Component {
         },200)
     }
 
-    componenetDidMount(){
+    componentDidMount(){
         console.log("did")
         this.getData()
     }
